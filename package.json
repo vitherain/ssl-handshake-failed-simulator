@@ -1,0 +1,5 @@
+{
+  "name": "ssl-handshake-failed-simulator",
+  "version": "0.0.1-SNAPSHOT",
+  "main": "./server.js"
+}
